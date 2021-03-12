@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="22" viewBox="0 0 26 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fafafa;
+        opacity: 0.9;
+      }
+    </style>
+  </defs>
+  <title>icon_back</title>
+  <g id="icon">
+    <polygon class="cls-1" points="25.729 10.5 2.51 10.5 10.565 3.076 9.887 2.341 0.491 11 9.887 19.659 10.565 18.924 2.51 11.5 25.729 11.5 25.729 10.5"/>
+  </g>
+</svg>
